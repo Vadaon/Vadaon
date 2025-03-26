@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: 💜 EVA VIBES | 2025 | Synthwave x Neon Future 🌌
+Title: please, stay with me
+
 
 <h4>Tools</h4>
   <div class="tools">
