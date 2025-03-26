@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: 🌆 2025 | AURITNI | Synthwave + Chillwave 🔮💫 #2
+Title: 💜 EVA VIBES | 2025 | Synthwave x Neon Future 🌌
+
 
 
 
