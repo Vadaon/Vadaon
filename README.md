@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: 💜 EVA VIBES | 2025 | Synthwave x Neon Future 🌌
+Title: (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤ BEST ATMOSPHERIC VIBE PHONK [PHONK MIX#2]
+
 
 
 
