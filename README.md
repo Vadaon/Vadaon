@@ -24,6 +24,7 @@
 
 Title: [playlist] Chill Japanese songs - 怪しい雰囲気漂うミステリアスなJapanese songs playlist🎧
 
+<<<<<<< HEAD
 
 
 
@@ -37,6 +38,8 @@ Title: [playlist] Chill Japanese songs - 怪しい雰囲気漂うミステリア
 
 
 
+=======
+>>>>>>> 5e7f1bc0b27aba7e98fa9ab53f5d0515da0efafd
 <h4>Tools</h4>
   <div class="tools">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" alt="Nuxt" width="35">
