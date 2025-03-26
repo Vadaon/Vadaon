@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤ BEST ATMOSPHERIC VIBE PHONK [PHONK MIX#2]
+Title: Chill atmospheric phonk ❖ Атмосферный Фонк
+
 
 
 
