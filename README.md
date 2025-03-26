@@ -18,17 +18,20 @@
   <li>Punishing Gray Raven is a part of my life</li>
 </ul>
 
-<p>Currently, I'm working on improving my website, which will finally see the light of day ^.~</p>
+<p>At the moment, I'm focusing on enhancing my website, which will soon be ready for launch ^.~</p>
 
-<!-- Tools Section -->
+## Vibes in Progress...
+
+Title: [playlist] Chill Japanese songs - 怪しい雰囲気漂うミステリアスなJapanese songs playlist🎧
+
 <h4>Tools</h4>
   <div class="tools">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" alt="Nuxt" width="35">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="35">
-    <img src="https://camo.githubusercontent.com/07f1eb5bc22d00c16512af2e8ba046157ba7da09992b6f34a70b624914d69682/68747470733a2f2f726573706f6e736976656c792e6170702f6173736574732f696d672f6c6f676f2e706e67"                          alt="VisualStudio Code" width="35">
+    <img src="https://camo.githubusercontent.com/07f1eb5bc22d00c16512af2e8ba046157ba7da09992b6f34a70b624914d69682/68747470733a2f2f726573706f6e736976656c792e6170702f6173736574732f696d672f6c6f676f2e706e67"                          alt="Responsively App" width="35">
   </div>
 
-<!-- Programming Languages Section -->
+
 <h4>Languages etc.</h4>
   <div class="lang">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="35">
@@ -58,7 +61,6 @@
 * [Julie Sigtuna](https://anilist.co/character/88894/Julie-Sigtuna)
 * [Mayuri](https://anilist.co/character/137564/Mayuri)
 * [Ikki Kurogane](https://anilist.co/character/88265/Ikki-Kurogane)
-* [Kufa Vampir](https://anilist.co/character/140830/Kufa-Vampir)
 * [Melida Angel](https://anilist.co/character/140828/Melida-Angel)
 * [Yuuichirou Hyakuya](https://anilist.co/character/83015/Yuuichirou-Hyakuya)
 * [Tatsumi](https://anilist.co/character/64749/Tatsumi)
@@ -71,8 +73,3 @@
 * [Inori Yuzuriha](https://anilist.co/character/43280/Inori-Yuzuriha)
 * [Ruri Ichigyou](https://anilist.co/character/142131/Ruri-Ichigyou)
 </details>
-
-
-<!---
-Vadaon/Vadaon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
