@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: [playlist] Chill Japanese songs - 怪しい雰囲気漂うミステリアスなJapanese songs playlist🎧
+Title: 🌆 2025 | AURITNI | Synthwave + Chillwave 🔮💫 #2
+
 
 
 <<<<<<< HEAD
