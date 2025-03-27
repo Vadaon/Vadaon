@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: 💜 EVA VIBES | 2025 | Synthwave x Neon Future 🌌
+Title: letting go, whatever happen happen. (playlist)
+
 
 
 
