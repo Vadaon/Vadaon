@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: gibbs s trone slonca
+Title: Gibbs - Lepsza Strona Słońca
+
 
 
 
