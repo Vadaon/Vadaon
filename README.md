@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: favst/gibbs - dddd ( CLIMO REMIX )
+Title: Gibbs - List ( CLIMO REMIX )
+
 
 
 
