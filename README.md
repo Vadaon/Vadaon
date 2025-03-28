@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: Yomanda & Mauro Picotto - Opera Amsterdam 2019 (Re Cue Rework)
+Title: Re Cue
+
 
 
 
