@@ -22,7 +22,8 @@
 
 ## Vibes in Progress...
 
-Title: 🎵 POLSKA PROPAGANDA - PRZYSZŁOŚĆ W JEGO RĘKACH (PROD. AI)
+Title: gibbs s trone slonca
+
 
 
 
